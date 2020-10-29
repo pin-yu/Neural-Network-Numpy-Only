@@ -7,4 +7,4 @@ Mnist
 ## Special thanks
 Thank Chia-Hung Yuan and Yu-Rong Zhang for helping me solve bunch of problems.
 
-take a look at Chia-Hung's repo: [Neural-Networks-from-Scratch](https://github.com/lionelmessi6410/Neural-Networks-from-Scratch)
+Take a look at Chia-Hung's repo: [Neural-Networks-from-Scratch](https://github.com/lionelmessi6410/Neural-Networks-from-Scratch)
