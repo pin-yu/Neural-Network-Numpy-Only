@@ -1,5 +1,5 @@
 # Neural Network Numpy Only
-Train a neural network from scratch without fancy frameworks, no TensorFlow & PyTorch.
+Build a neural network using numpy only.
 
 - MNIST Dataset
  
