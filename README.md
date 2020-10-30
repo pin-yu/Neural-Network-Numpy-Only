@@ -1,19 +1,20 @@
 # Neural Network Numpy Only
 Train a neural network from scratch without fancy frameworks, no TensorFlow & PyTorch.
 
-#### MNIST Dataset
-The MNIST database consists of images handwritten numbers and their labels.
+- MNIST Dataset
+ 
+  - I use the MNIST database consists of images handwritten numbers and their labels.
 
-#### Model Architecture
-Input layer: 768,
-hidden layer: 64,
-output layer: 10,
+- Model Architecture
+  - Input layer: 768
+  - hidden layer: 64
+  - output layer: 10
 
-#### Hyperparameters
-You can modify hyperparameters such as batch size and learning rate in train.py.
+- Hyperparameters
+  - You can modify hyperparameters such as batch size and learning rate in train.py.
 
-#### Prerequisite
-`pip install -r requirements.txt`
+- Prerequisite
+  - `pip install -r requirements.txt`
 
 ## Training
 `python3 train.py`
