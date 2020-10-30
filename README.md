@@ -3,7 +3,7 @@ Train a neural network from scratch without fancy frameworks, no TensorFlow & Py
 
 - MNIST Dataset
  
-  - I use the MNIST database which consists of images handwritten numbers and their labels.
+  - I use the MNIST database which consists of images of handwritten numbers and their labels.
 
 - Model Architecture
   - Input layer: 768
